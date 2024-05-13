@@ -7,6 +7,11 @@ AIM: To simulate and synthesis finite state machine using vivado2023.3.
 
 vivado 2023.3
 
+PIN DIAGRAM :
+
+![WhatsApp Image 2024-05-13 at 19 38 27_c7ae12a7](https://github.com/CalebSamraj14/VLSI-LAB-EXP-5/assets/163808923/3c5af62b-53b4-485a-bf69-e7297f7aa887)
+
+
 **PROCEDURE:**
 
 
@@ -30,6 +35,10 @@ vivado 2023.3
 Logic Diagram :
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
+
+TRUTH TABLE:
+
+![WhatsApp Image 2024-05-13 at 19 38 27_b7d3be50](https://github.com/CalebSamraj14/VLSI-LAB-EXP-5/assets/163808923/99426ded-9783-4df8-9a0d-abe10872b781)
 
 
 VERILOG CODE:
@@ -93,6 +102,10 @@ endmodule
 ~~~
 
 OUTPUT:
+
+![WhatsApp Image 2024-05-13 at 19 38 28_88970653](https://github.com/CalebSamraj14/VLSI-LAB-EXP-5/assets/163808923/9fa836fe-7def-4186-915f-39a35223dfb6)
+
+
 ![fsm11](https://github.com/CalebSamraj14/VLSI-LAB-EXP-5/assets/163808923/89457bfc-2a68-47e9-8a46-f26c4fbcb487)
 
 
